@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: TOP
+subtitle: 数据运维
 description:
-author: John Doe
+author: Author Name,name@example.com
 language:
 timezone:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anatole
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
